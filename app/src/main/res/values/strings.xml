@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MorseCodeCompose</string>
+    <string name="morse_code_app">Morse code App</string>
+</resources>
