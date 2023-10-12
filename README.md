@@ -1,5 +1,8 @@
 # MorseCodeCompose
-Morse Code app using gestures written in Kotlin and Compose
+Morse Code app using gestures written in Kotlin and Jetpack Compose
+
+![GitHub top language](https://img.shields.io/github/languages/top/natasam/ModernArchWeatherApp) ![Static Badge](https://img.shields.io/badge/android-magenta?logo=android) ![GitHub](https://img.shields.io/github/license/natasam/ModernArchWeatherApp)
+
 ### Features
 
 - Using MVI design pattern
@@ -9,4 +12,8 @@ Morse Code app using gestures written in Kotlin and Compose
 
  ## Screenshot examples
 
-  <img src="screenshot1.png" alt=" screenshot 1" width="200"> <img src="screenshot2.png" alt=" screenshot 2" width="200"> 
+   <img src="hello.gif" alt=" screenshot 3" width="250"> 
+   
+ > Hello! More screenshots showing different dynamic colors:
+ 
+ <img src="screenshot1.png" alt=" screenshot 1" width="200"> <img src="screenshot2.png" alt=" screenshot 2" width="200">
